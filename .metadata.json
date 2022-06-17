@@ -1,0 +1,14 @@
+[
+  {
+    "package": "gofar",
+    "oncran": true
+  },
+  {
+    "package": "nbfar",
+    "oncran": true
+  },
+  {
+    "package": "robregcc",
+    "oncran": true
+  }
+]
