@@ -3,6 +3,12 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "robregcc"]
+	path = robregcc
+	url = https://github.com/amishra-stats/robregcc
+	shallow = true
+	subdir = robregcc
+	registered = true
 [submodule "gofar"]
 	path = gofar
 	url = https://github.com/amishra-stats/gofar
@@ -14,10 +20,4 @@
 	url = https://github.com/amishra-stats/nbfar
 	shallow = true
 	subdir = nbfar
-	registered = true
-[submodule "robregcc"]
-	path = robregcc
-	url = https://github.com/amishra-stats/robregcc
-	shallow = true
-	subdir = robregcc
 	registered = true
