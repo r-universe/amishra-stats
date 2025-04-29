@@ -6,10 +6,6 @@
 	path = gofar
 	url = https://github.com/amishra-stats/gofar
 	subdir = gofar
-[submodule "nbfar"]
-	path = nbfar
-	url = https://github.com/amishra-stats/nbfar
-	subdir = nbfar
 [submodule "robregcc"]
 	path = robregcc
 	url = https://github.com/amishra-stats/robregcc
