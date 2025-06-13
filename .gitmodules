@@ -10,6 +10,3 @@
 	path = robregcc
 	url = https://github.com/amishra-stats/robregcc
 	subdir = robregcc
-[submodule "secure"]
-	path = secure
-	url = https://github.com/cran/secure
